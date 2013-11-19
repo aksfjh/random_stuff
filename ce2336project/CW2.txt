@@ -1,0 +1,18 @@
+About Critical Watch
+Founded in 2000 in Dallas, TX, Critical Watch™ has been a leading provider of security technology for many years. Building on its expertise in vulnerability management and compliance with FusionVM®, the company has created the ACI Platform®, a next generation technology that combines comprehensive intelligence with active mitigation. 
+Critical Watch™ maintains a supportive and friendly atmosphere while using the latest Agile methodologies as a guiding principle for everything we do. Training in security and methodologies is a part of our internship program allowing for rapid advancement to more responsibilities. 
+
+About the Job 
+As a member of the Basecamp Labs™ research team, you will be an active part of making the internet safer. Through mentoring from experienced security researchers you will create vulnerability scanning signatures to detect issues in the Windows, Linux and Unix operating systems and various products and applications. Additionally, the candidate will perform troubleshooting and testing, maintenance, bug fixes and provide customer support for Critical Watch security products. Ultimately you will be responsible for new vulnerabilities signatures all the way from selection, research, algorithms, programming, testing and release. 
+
+Flexible Schedules – Training provided
+*Qualifications  :
+The candidate must have the following: 
+- Strong Experience in programming and scripting: Perl, Ruby, Python, C#, Java experience preferred 
+- Strong problem solving and troubleshooting skills 
+- Reliable transportation. 
+
+Additional Preferred skills: 
+- Experience with common protocols (e.g., HTTP, FTP, SSH, IMAP, POP3, etc) 
+- Network troubleshooting skills with basic IP protocols 
+- Solid understanding of DNS, DHCP, server/client configuration, TCP/IP networking 
